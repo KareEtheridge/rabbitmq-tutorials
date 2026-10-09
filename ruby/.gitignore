@@ -1,0 +1,28 @@
+# Bundler
+.bundle/
+vendor/bundle
+
+# Gem
+*.gem
+.gem/
+
+# RDoc / Yardoc
+doc/
+rdoc/
+
+# Test
+coverage/
+test/tmp/
+test/version_tmp/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
