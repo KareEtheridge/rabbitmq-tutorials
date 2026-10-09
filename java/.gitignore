@@ -1,0 +1,26 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# Compiled
+*.class
+*.log
+*.ctxt
+
+# Build
+build/
+target/
+out/
+
+# JAR
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
